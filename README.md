@@ -140,7 +140,7 @@ validating that ML-derived tiers align with known state health rankings.
 ## Author
 
 **Sibikrish** — Data Engineering & Health Analytics  
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-URL) | [Hugging Face](https://huggingface.co/Sibikrish03)
+[LinkedIn](www.linkedin.com/in/sibi-k-a40b03337) | [Hugging Face](https://huggingface.co/spaces/Sibikrish03/healthcare-lakehouse-dashboard)
 
 ---
 
